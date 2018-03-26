@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Photo Blog</string>
+    <string name="logo_login_page">Logo Login page</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="login_to_account">Login to Account</string>
+    <string name="need_a_new_account">Need a new Account?</string>
+    <string name="logout">Logout</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="your_name">Your Name</string>
+    <string name="save_account_ettings">Save Account ettings</string>
+    <string name="add_description">Add description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tap_to_choose_image">Tap to Choose Image</string>
+    <string name="add_post">Add Post</string>
+    <string name="mar_15_2018">Mar 15, 2018</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</string>
+    <string name="username">Username</string>
+</resources>
